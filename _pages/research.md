@@ -6,16 +6,16 @@ author_profile: true
 
 ## Research Interests
 
-Describe your research interests here.
-
-## Publications
-
-List your publications here, or link to your [Google Scholar profile](#).
+- Industrial Organization
+- Real Estate Finance
+- Applied Econometrics
+- Information Asymmetries in Financial Markets
+- Machine Learning Applications in Economics
 
 ## Working Papers
 
-List working papers and projects in progress.
+*Coming soon*
 
-## Projects
+## Publications
 
-Describe ongoing research projects.
+*Coming soon*
