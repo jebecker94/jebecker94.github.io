@@ -24,8 +24,5 @@ This paper investigates financial intermediation costs in mortgage markets, focu
 
 ## Works in Progress
 
-**Connecting the Dots: A Practitioner's Guide to Maximizing Public Mortgage Data Coverage**
+**Connecting the Dots: A Practitioner's Guide to Maximizing Public Mortgage Data Coverage** [[GitHub]](https://github.com/jebecker94/mortgage_data_manager)
 
-## Publications
-
-*Coming soon*
