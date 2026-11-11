@@ -14,9 +14,9 @@ author_profile: true
 
 ## Working Papers
 
-**Adverse Selection in the Wholesale Mortgage Market** [[PDF]](/files/becker_mortgage_jmp.pdf)
+**Adverse Selection in the Wholesale Mortgage Market**
 
-This research examines how private information influences loan allocation through wholesale mortgage markets. The study focuses on mortgage originators who decide whether to sell loans to third-party investors or securitize through Government Sponsored Enterprises. I develop a theoretical model and estimate it using a novel dataset combining GSE and investor price offers. Key findings indicate that originators possess private information about loan quality and strategically use wholesale investors' price signals when making allocation decisions. The results suggest that while individual loan pricing increases wholesale market participation, the additional loans obtained by investors tend to be adversely selected.
+[Substantial revision forthcoming]
 
 **Asymmetric Information and the Supply-Chain of Mortgages: The Case of Ginnie Mae Loans** (with Ken Hendricks, Jean-Francois Houde, and Diwakar Raisingh) [[PDF]](/files/BHHR_AsymmetricInformationGinnieMortgages.pdf)
 
